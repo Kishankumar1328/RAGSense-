@@ -1,4 +1,4 @@
-import os
+Oimport os
 import streamlit as st
 from langchain_community.document_loaders import PDFPlumberLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
